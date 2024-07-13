@@ -1,12 +1,12 @@
 {
     "rewrites": [
         {
-            "source": "/Twitch:match(.*)",
-            "destination": "https://www.twitch.tv/skyquake:match(.*)"
+            "source": "/Twitch:path*",
+            "destination": "https://www.twitch.tv/skyquake:path*"
         },
         {
-            "source": "/twitch:match(.*)",
-            "destination": "https://www.twitch.tv/skyquake:match(.*)"
+            "source": "/twitch:path*",
+            "destination": "https://www.twitch.tv/skyquake:path*"
         },
         {
             "source": "/Stream:match(.*)",

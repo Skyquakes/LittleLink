@@ -1,159 +1,159 @@
 {
     "rewrites": [
         {
-            "source": "/Twitch/:match(.*)",
+            "source": "/Twitch:match(.*)",
             "destination": "https://www.twitch.tv/skyquake:match(.*)"
         },
         {
-            "source": "/twitch/:match(.*)",
+            "source": "/twitch:match(.*)",
             "destination": "https://www.twitch.tv/skyquake:match(.*)"
         },
         {
-            "source": "/Stream/:match(.*)",
+            "source": "/Stream:match(.*)",
             "destination": "https://www.twitch.tv/skyquake:match(.*)"
         },
         {
-            "source": "/stream/:match(.*)",
+            "source": "/stream:match(.*)",
             "destination": "https://www.twitch.tv/skyquake:match(.*)"
         },
         {
-            "source": "/Youtube/:match(.*)",
+            "source": "/Youtube:match(.*)",
             "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
         },
         {
-            "source": "/youtube/:match(.*)",
+            "source": "/youtube:match(.*)",
             "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
         },
         {
-            "source": "/YouTube/:match(.*)",
+            "source": "/YouTube:match(.*)",
             "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
         },
         {
-            "source": "/s/youtube/:match(.*)",
+            "source": "/s/youtube:match(.*)",
             "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
         },
         {
-            "source": "/s/Youtube/:match(.*)",
+            "source": "/s/Youtube:match(.*)",
             "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
         },
         {
-            "source": "/s/YouTube/:match(.*)",
+            "source": "/s/YouTube:match(.*)",
             "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
         },
         {
-            "source": "/merch/:match(.*)",
+            "source": "/merch:match(.*)",
             "destination": "https://www.designbyhumans.com/shop/skyquake:match(.*)"
         },
         {
-            "source": "/Merch/:match(.*)",
+            "source": "/Merch:match(.*)",
             "destination": "https://www.designbyhumans.com/shop/skyquake:match(.*)"
         },
         {
-            "source": "/Shop/:match(.*)",
+            "source": "/Shop:match(.*)",
             "destination": "https://www.designbyhumans.com/shop/skyquake:match(.*)"
         },
         {
-            "source": "/shop/:match(.*)",
+            "source": "/shop:match(.*)",
             "destination": "https://www.designbyhumans.com/shop/skyquake:match(.*)"
         },
         {
-            "source": "/Store/:match(.*)",
+            "source": "/Store:match(.*)",
             "destination": "https://www.designbyhumans.com/shop/skyquake:match(.*)"
         },
         {
-            "source": "/store/:match(.*)",
+            "source": "/store:match(.*)",
             "destination": "https://www.designbyhumans.com/shop/skyquake:match(.*)"
         },
         {
-            "source": "/tiktok/:match(.*)",
+            "source": "/tiktok:match(.*)",
             "destination": "https://www.tiktok.com/@skyquakelive:match(.*)"
         },
         {
-            "source": "/TikTok/:match(.*)",
+            "source": "/TikTok:match(.*)",
             "destination": "https://www.tiktok.com/@skyquakelive:match(.*)"
         },
         {
-            "source": "/Tiktok/:match(.*)",
+            "source": "/Tiktok:match(.*)",
             "destination": "https://www.tiktok.com/@skyquakelive:match(.*)"
         },
         {
-            "source": "/Instagram/:match(.*)",
+            "source": "/Instagram:match(.*)",
             "destination": "https://www.instagram.com/skyquakelive:match(.*)"
         },
         {
-            "source": "/instagram/:match(.*)",
+            "source": "/instagram:match(.*)",
             "destination": "https://www.instagram.com/skyquakelive:match(.*)"
         },
         {
-            "source": "/Threads/:match(.*)",
+            "source": "/Threads:match(.*)",
             "destination": "https://www.threads.net/@skyquakelive:match(.*)"
         },
         {
-            "source": "/threads/:match(.*)",
+            "source": "/threads:match(.*)",
             "destination": "https://www.threads.net/@skyquakelive:match(.*)"
         },
         {
-            "source": "/X/:match(.*)",
+            "source": "/X:match(.*)",
             "destination": "https://x.com/skyquakelive:match(.*)"
         },
         {
-            "source": "/x/:match(.*)",
+            "source": "/x:match(.*)",
             "destination": "https://x.com/skyquakelive:match(.*)"
         },
         {
-            "source": "/Twitter/:match(.*)",
+            "source": "/Twitter:match(.*)",
             "destination": "https://twitter.com/skyquakelive:match(.*)"
         },
         {
-            "source": "/twitter/:match(.*)",
+            "source": "/twitter:match(.*)",
             "destination": "https://twitter.com/skyquakelive:match(.*)"
         },
         {
-            "source": "/Discord/:match(.*)",
+            "source": "/Discord:match(.*)",
             "destination": "https://discord.gg/0z8f8wBrpECF9nKv:match(.*)"
         },
         {
-            "source": "/discord/:match(.*)",
+            "source": "/discord:match(.*)",
             "destination": "https://discord.gg/0z8f8wBrpECF9nKv:match(.*)"
         },
         {
-            "source": "/server/:match(.*)",
+            "source": "/server:match(.*)",
             "destination": "https://discord.gg/0z8f8wBrpECF9nKv:match(.*)"
         },
         {
-            "source": "/Server/:match(.*)",
+            "source": "/Server:match(.*)",
             "destination": "https://discord.gg/0z8f8wBrpECF9nKv:match(.*)"
         },
         {
-            "source": "/Invite/:match(.*)",
+            "source": "/Invite:match(.*)",
             "destination": "https://discord.gg/0z8f8wBrpECF9nKv:match(.*)"
         },
         {
-            "source": "/invite/:match(.*)",
+            "source": "/invite:match(.*)",
             "destination": "https://discord.gg/0z8f8wBrpECF9nKv:match(.*)"
         },
         {
-            "source": "/Reddit/:match(.*)",
+            "source": "/Reddit:match(.*)",
             "destination": "https://www.reddit.com/r/skyquake:match(.*)"
         },
         {
-            "source": "/reddit/:match(.*)",
+            "source": "/reddit:match(.*)",
             "destination": "https://www.reddit.com/r/skyquake:match(.*)"
         },
         {
-            "source": "/r/skyquake/:match(.*)",
+            "source": "/r/skyquake:match(.*)",
             "destination": "https://www.reddit.com/r/skyquake:match(.*)"
         },
         {
-            "source": "/r/Skyquake/:match(.*)",
+            "source": "/r/Skyquake:match(.*)",
             "destination": "https://www.reddit.com/r/skyquake:match(.*)"
         },
         {
-            "source": "/subreddit/:match(.*)",
+            "source": "/subreddit:match(.*)",
             "destination": "https://www.reddit.com/r/skyquake:match(.*)"
         },
         {
-            "source": "/Subreddit/:match(.*)",
+            "source": "/Subreddit:match(.*)",
             "destination": "https://www.reddit.com/r/skyquake:match(.*)"
         }
     ]

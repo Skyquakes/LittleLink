@@ -10,11 +10,11 @@
         },
         {
             "source": "/Stream:match(.*)",
-            "destination": "https://www.twitch.tv/skyquake:match(.*)"
+            "destination": "https://twitch.squake.tv:path*"
         },
         {
             "source": "/stream:match(.*)",
-            "destination": "https://www.twitch.tv/skyquake:match(.*)"
+            "destination": "https://twitch.squake.tv:path*"
         },
         {
             "source": "/Youtube:match(.*)",

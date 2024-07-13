@@ -21,6 +21,10 @@
             "destination": "https://twitch.squake.tv:path*"
         },
         {
+            "source": "/Streams:match(.*)",
+            "destination": "https://twitch.squake.tv:path*"
+        },
+        {
             "source": "/Youtube:match(.*)",
             "destination": "https://www.youtube.squake.tv:match(.*)"
         },

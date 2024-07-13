@@ -18,27 +18,27 @@
         },
         {
             "source": "/Youtube:match(.*)",
-            "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
+            "destination": "https://www.youtube.squake.tv:match(.*)"
         },
         {
             "source": "/youtube:match(.*)",
-            "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
+            "destination": "https://www.youtube.squake.tv:match(.*)"
         },
         {
             "source": "/YouTube:match(.*)",
-            "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
+            "destination": "https://www.youtube.squake.tv:match(.*)"
         },
         {
             "source": "/s/youtube:match(.*)",
-            "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
+            "destination": "https://www.youtube.squake.tv:match(.*)"
         },
         {
             "source": "/s/Youtube:match(.*)",
-            "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
+            "destination": "https://www.youtube.squake.tv:match(.*)"
         },
         {
             "source": "/s/YouTube:match(.*)",
-            "destination": "https://www.youtube.com/skyquake?sub_confirmation=1:match(.*)"
+            "destination": "https://www.youtube.squake.tv:match(.*)"
         },
         {
             "source": "/merch:match(.*)",
@@ -66,15 +66,15 @@
         },
         {
             "source": "/tiktok:match(.*)",
-            "destination": "https://www.tiktok.com/@skyquakelive:match(.*)"
+            "destination": "https://www.tiktok.squake.tv:match(.*)"
         },
         {
             "source": "/TikTok:match(.*)",
-            "destination": "https://www.tiktok.com/@skyquakelive:match(.*)"
+            "destination": "https://www.tiktok.squake.tv:match(.*)"
         },
         {
             "source": "/Tiktok:match(.*)",
-            "destination": "https://www.tiktok.com/@skyquakelive:match(.*)"
+            "destination": "https://www.tiktok.squake.tv:match(.*)"
         },
         {
             "source": "/Instagram:match(.*)",
@@ -86,11 +86,11 @@
         },
         {
             "source": "/Threads:match(.*)",
-            "destination": "https://www.threads.net/@skyquakelive:match(.*)"
+            "destination": "https://www.threads.squake.tv:match(.*)"
         },
         {
             "source": "/threads:match(.*)",
-            "destination": "https://www.threads.net/@skyquakelive:match(.*)"
+            "destination": "https://www.threads.squake.tv:match(.*)"
         },
         {
             "source": "/X:match(.*)",

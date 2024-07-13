@@ -1,28 +1,28 @@
 {
     "rewrites": [
         {
-            "source": "/Twitch:path*",
-            "destination": "https://twitch.squake.tv:path*"
+            "source": "/Twitch:match(.*)",
+            "destination": "https://twitch.squake.tv:match(.*)"
         },
         {
-            "source": "/twitch:path*",
-            "destination": "https://twitch.squake.tv:path*"
+            "source": "/twitch:match(.*)",
+            "destination": "https://twitch.squake.tv:match(.*)"
         },
         {
-            "source": "/Stream::path*",
-            "destination": "https://twitch.squake.tv:path*"
+            "source": "/Stream:match(.*)",
+            "destination": "https://twitch.squake.tv:match(.*)"
         },
         {
-            "source": "/stream::path*",
-            "destination": "https://twitch.squake.tv:path*"
+            "source": "/stream:match(.*)",
+            "destination": "https://twitch.squake.tv:match(.*)"
         },
         {
-            "source": "/streams::path*",
-            "destination": "https://twitch.squake.tv:path*"
+            "source": "/streams:match(.*)",
+            "destination": "https://twitch.squake.tv:match(.*)"
         },
         {
-            "source": "/Streams::path*",
-            "destination": "https://twitch.squake.tv:path*"
+            "source": "/Streams:match(.*)",
+            "destination": "https://twitch.squake.tv:match(.*)"
         },
         {
             "source": "/Youtube:match(.*)",

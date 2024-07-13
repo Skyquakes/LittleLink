@@ -134,27 +134,27 @@
         },
         {
             "source": "/Reddit:match(.*)",
-            "destination": "https://www.reddit.com/r/skyquake:match(.*)"
+            "destination": "https://www.reddit.squake.tv:match(.*)"
         },
         {
             "source": "/reddit:match(.*)",
-            "destination": "https://www.reddit.com/r/skyquake:match(.*)"
+            "destination": "https://www.reddit.squake.tv:match(.*)"
         },
         {
             "source": "/r/skyquake:match(.*)",
-            "destination": "https://www.reddit.com/r/skyquake:match(.*)"
+            "destination": "https://www.reddit.squake.tv:match(.*)"
         },
         {
             "source": "/r/Skyquake:match(.*)",
-            "destination": "https://www.reddit.com/r/skyquake:match(.*)"
+            "destination": "https://www.reddit.squake.tv:match(.*)"
         },
         {
             "source": "/subreddit:match(.*)",
-            "destination": "https://www.reddit.com/r/skyquake:match(.*)"
+            "destination": "https://www.reddit.squake.tv:match(.*)"
         },
         {
             "source": "/Subreddit:match(.*)",
-            "destination": "https://www.reddit.com/r/skyquake:match(.*)"
+            "destination": "https://www.reddit.squake.tv:match(.*)"
         }
     ]
 }

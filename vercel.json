@@ -9,19 +9,19 @@
             "destination": "https://twitch.squake.tv:path*"
         },
         {
-            "source": "/Stream:match(.*)",
+            "source": "/Stream::path*",
             "destination": "https://twitch.squake.tv:path*"
         },
         {
-            "source": "/stream:match(.*)",
+            "source": "/stream::path*",
             "destination": "https://twitch.squake.tv:path*"
         },
         {
-            "source": "/streams:match(.*)",
+            "source": "/streams::path*",
             "destination": "https://twitch.squake.tv:path*"
         },
         {
-            "source": "/Streams:match(.*)",
+            "source": "/Streams::path*",
             "destination": "https://twitch.squake.tv:path*"
         },
         {
